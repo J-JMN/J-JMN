@@ -19,7 +19,7 @@
 
 > *“Six production platforms are live right now because I wrote the code. Founders log into dashboards I built. Organisations run on systems I architected from first commit to deployment. Every one of them shipped as the infrastructure a real business depends on daily.”*
 
-Passionate software engineer with a strong foundation in fullstack web development, specialising in building production‑grade applications that deliver real business outcomes. Proficient across the complete development lifecycle – from crafting responsive, performant frontends with Next.js and React, to architecting RESTful backends with Django and Laravel.
+Passionate software engineer with a strong foundation in fullstack web development, specialising in building production‑grade applications that deliver real business outcomes. Proficient across the complete development lifecycle – from crafting responsive, performant frontends to architecting RESTful backends.
 
 <br />
 
@@ -29,7 +29,6 @@ Passionate software engineer with a strong foundation in fullstack web developme
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,python,django,laravel,mysql,git,linux,vercel&perline=7&theme=dark" />
   <br />
   <br />
-  <kbd>JWT Auth</kbd> <kbd>HMAC‑SHA256</kbd> <kbd>Cloudinary</kbd> <kbd>Nodemailer</kbd> <kbd>Zod</kbd> <kbd>React Hook Form</kbd> <kbd>cPanel</kbd> <kbd>Passenger WSGI</kbd> <kbd>Canvas API</kbd> <kbd>Web Audio API</kbd>
 </div>
 
 <br />
