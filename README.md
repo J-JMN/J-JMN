@@ -150,12 +150,12 @@
 
 ### 🔷 Sun Rays Foundation — NGO Platform `Active Retainer`
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MYSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-**A portfolio template the foundation discovered independently.** They found the showcase, commissioned the full official rebuild, and became a long-term retainer client. Complete ground-up rebuild — full CMS, blog management, HMAC-SHA256 auth. The first client relationship built entirely on the work speaking for itself.
+**A portfolio template the foundation discovered independently.** They found the showcase, commissioned the full official rebuild, and became a long-term retainer client. Complete ground-up rebuild — React.js, Django REST API and TypeScript — a fresh contemporary design with improved design and navigation, Blog CMS, Custom Admin dashboard, Email notifications, CMS models and API endpoints for programs, locations, partners, milestones, and testimonials with admin CRUD operations and public views,accessibility-first principles, and engaging storytelling interfaces.. The first client relationship built entirely on the work speaking for itself.
 
 *Ongoing. Active. Earned.*
 
